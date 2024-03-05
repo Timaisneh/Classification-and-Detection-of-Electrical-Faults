@@ -16,3 +16,6 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Classification-and-Detection-of-Electrical-Faults.git
+
+## Credits
+E Sathya Prakash on kaggle
